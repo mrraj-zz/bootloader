@@ -1,0 +1,3 @@
+1 . Simple Boot Loader.
+2 . Setting CS:IP => 0x0 : offset.
+3 . When setting CS to 0x007c0, doesn't work.
